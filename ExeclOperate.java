@@ -14,7 +14,7 @@ import org.apache.poi.xssf.usermodel.XSSFWorkbook;
 *
 * 向数据库导入Excel中的注释至表的注释中
 *
-*
+* 解析excel  修改数据库 表 和 字段 注释 poi
 *
 *
 * */
